@@ -354,7 +354,7 @@ def grade_9():
 
         # case 3
         observed = row["Manager Name"]
-        expected = "Edwards, Margaret"
+        expected = "Edwards, Nancy"
         case_3_correct = check("Manager Name", observed, expected)
 
         # case 4
