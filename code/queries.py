@@ -83,7 +83,7 @@ query_9 = """
 # Return two columns called "Name" and "Hire Date",
 # in any order.
 # "Name" should have the employee's name as in the form "last name, first name",
-# for example someone with the last name "Smith "and first name "Bob" should be "Bob, Smith"
+# for example someone with the last name "Smith "and first name "Bob" should be "Smith, Bob"
 
 query_10 = """
 
